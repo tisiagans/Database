@@ -522,3 +522,7 @@ DETAIL_TRANSAKSI (TransaksiID, ProdukID, Qty, Subtotal)
 Memanfaatkan AI untuk normalisasi database dapat menghemat waktu dan meningkatkan akurasi. Dengan mengikuti langkah-langkah di atas secara sistematis, Anda dapat mentransformasi database yang tidak terstruktur menjadi database yang optimal dan memenuhi standar normalisasi 3NF.
 
 Kunci sukses adalah kombinasi antara pemahaman teori normalisasi, kemampuan AI, dan pengetahuan tentang konteks bisnis Anda. Selalu validasi setiap tahap dan jangan ragu untuk mengiterasi jika diperlukan.
+
+Nama: Muhammad Tri Andhika Yustisia
+Kelas: 3A
+![Gambar WhatsApp 2025-10-05 pukul 21 13 20_bb2d8acd](https://github.com/user-attachments/assets/dac520b8-d159-4fb3-8a6d-fd05ab42c913)
