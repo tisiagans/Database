@@ -1,4 +1,4 @@
-# Panduan Membuat Database Pengeluaran Bulan Ini dengan MariaDB
+# Panduan Membuat Database Pengeluaran Harian dengan MariaDB
 
 ## 1. Membuat Database
 
